@@ -1,6 +1,6 @@
 {
   "name": "test-npm-pkg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aksm-ms/test-npm-pkg/issues"
   },
-  "homepage": "https://github.com/aksm-ms/test-npm-pkg#readme"
+  "homepage": "https://github.com/aksm-ms/test-npm-pkg#readme",
+  "dependencies": {
+    "ak-es-test": "^1.0.18"
+  }
 }
